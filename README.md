@@ -1,11 +1,6 @@
 <!-- HEADER -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   I build AI that solves problems people actually have.      ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 # Vanapalli Venkata Parthiv
 
